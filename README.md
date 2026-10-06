@@ -1,17 +1,29 @@
-# 📝 learning-in-public
+# 📝 Learning in Public — Crypto, Airdrop & Open Source
 
-Catatan perjalanan belajar crypto, airdrop, dan open source — mulai dari nol, didokumentasikan secara jujur.
+Catatan perjalanan belajar crypto, airdrop, dan open source dari nol — ditulis Bahasa Indonesia, didokumentasikan secara jujur dan terbuka.
 
-> ⚠️ Nama repo ini sementara — akan di-rename jadi `learning-in-public` setelah setting beres.
+> Learning in public: everything I learn, documented honestly — mostly in Indonesian.
 
-## Kenapa repo ini ada?
+## 🎯 Buat siapa repo ini?
 
-Akun GitHub ini dibuat tahun 2011 dan dormant belasan tahun. Oktober 2026 aku mutusin buat mulai lagi dengan cara yang bener:
+- Pemula crypto Indonesia yang mau belajar dari nol
+- Yang penasaran soal airdrop farming tanpa modal
+- Yang mau lihat contoh membangun reputasi GitHub dari nol
 
-- **Belajar di depan umum** — semua catatan ada di sini
-- **Kontribusi kecil tapi konsisten** — bukan spam commit
-- **Jujur soal proses** — termasuk salah dan bingungnya
+## 📚 Daftar catatan
 
-## Daftar catatan
+| # | Topik | Tanggal |
+|---|-------|---------|
+| 01 | [Mulai dari nol](notes/01-mulai-dari-nol.md) | 2026-10-07 |
 
-- [01 — Mulai dari nol](notes/01-mulai-dari-nol.md) `2026-10-07`
+_Catatan baru terbit tiap hari._
+
+## 🧭 Prinsip
+
+- ❌ Tanpa commit spam / aktivitas palsu
+- ✅ Kontribusi kecil tapi konsisten
+- ⏳ Main jangka panjang — reputasi dibangun 30/60/120 hari
+
+## 👤 Tentang pemilik
+
+Akun GitHub sejak 2011, dormant belasan tahun, dibangun ulang Oktober 2026. [Profil](https://github.com/hatbrake)
